@@ -13,12 +13,12 @@ This greeting card is a perfect way to send holiday cheer to friends and family 
 <table style="width:100%; table-layout:fixed;">
   <tr>
     <td style="width:50%; text-align:center;">
-      </br>
       <p>Front Card</p>
       <img src="img/screenshot.png" style="width:100%;"/>
     </td>
+  </tr>
+  <tr>
     <td style="width:50%; text-align:center;">
-      </br>
       <p>Inner Card</p>
       <img src="img/screenshot1.png" style="width:100%;"/>
     </td>
