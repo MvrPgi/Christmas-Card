@@ -9,3 +9,16 @@ This is a festive and interactive Christmas greeting card created using HTML, CS
 - **JavaScript**: Adds interactivity, such as displaying a countdown to Christmas or revealing a hidden message when a button is clicked.
 
 This greeting card is a perfect way to send holiday cheer to friends and family in a fun and creative way!
+
+<table>
+<td>
+</br>
+<p align="center">Front Card</p>
+<img src=img/screenshot.png/>
+</td>
+</br>
+<td>
+<p align="center">Inner Card Card</p>
+<img src=img/screenshot1.png/>
+</td>
+</table>
